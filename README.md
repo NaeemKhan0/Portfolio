@@ -7,22 +7,65 @@
 - M.S.c., Mathematics	| The National College of Business Administration and Economics (_April 2019_)			        		
 - B.S.c., Mathematics | The Bahauddin Zakariya University (March 2017)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## 💼 Work Experience
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Scientist Engineer @ Freelance**  
+_March 2022 - Present_  
+- 🛠️ Developed and optimized **data preprocessing pipelines**, boosting model performance by efficiently handling missing data, outliers, and feature scaling.
+- 🧠 Implemented advanced **feature engineering techniques** such as one-hot encoding, polynomial features, and dimensionality reduction, leading to enhanced model interpretability and accuracy.
+- 🐦 Created a **tweet prediction score model** utilizing **NLP** to accurately predict engagement metrics, optimizing social media strategy.
+- 🔍 Conducted comprehensive **Exploratory Data Analysis (EDA)** on diverse datasets, revealing trends, correlations, and actionable insights to guide decision-making processes.
+- 🤖 Built an intelligent **chatbot application** using **Flask** and **Streamlit**, enabling real-time text-to-image and text-to-speech functionality, greatly enhancing user experience.
+- 🚀 Designed and deployed robust **machine learning models** using **Streamlit**, improving accessibility and providing real-time interaction with predictive models.
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+---
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+**Data Science Project Lead @ Open-Source Contributions**  
+_April 2021 - Present_  
+- 🤝 Collaborated on several **open-source projects** focused on **machine learning**, **data visualization**, and **chatbot development**.
+- 📈 Developed **regression models**, improving prediction accuracy through rigorous fine-tuning and validation using cross-validation techniques.
+- 💻 Designed intuitive and user-friendly **Streamlit interfaces**, allowing for seamless interaction with ML models in tasks like **text-to-image conversion** and **predictive analytics**.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+
+## 🚀 Projects
+
+### 🧩 Data Preprocessing and Feature Engineering for Machine Learning Models
+Built and optimized **data preprocessing pipelines** and applied advanced **feature engineering** techniques, ensuring **high-performance models** with improved accuracy and interpretability.
+
+🎯 **Key Achievements:**
+- 🧹 Cleaned and preprocessed large datasets by handling missing values, outliers, and feature scaling.
+- 🔄 Applied **dimensionality reduction** and **one-hot encoding**, leading to a **15% boost in model accuracy**.
+- 📊 Automated **feature extraction** processes, saving time and enhancing productivity.
+
+---
+
+### 🐦 Tweet Prediction Score Model
+Developed a **Tweet Prediction Score Model** that predicts tweet engagement using **natural language processing (NLP)** techniques.
+
+🎯 **Key Achievements:**
+- 📈 Designed and implemented the model using **Python** and **TensorFlow**, achieving a **25% accuracy improvement** in engagement prediction.
+- 🔍 Extracted key features using **NLP** and **text vectorization** methods for better prediction accuracy.
+- 🤖 Integrated the model with real-time data analysis tools for live tweet prediction.
+
+---
+
+### 💬 Chatbot Applications Using Flask and Streamlit
+Built several chatbot applications using **Flask** and **Streamlit**, allowing users to interact with **text-to-image** and **text-to-speech** functionalities in real-time.
+
+🎯 **Key Achievements:**
+- 🎙️ Developed a **text-to-speech** feature that converts input text into natural-sounding audio.
+- 🖼️ Built a **text-to-image** generator using advanced **deep learning models**, enabling creative interactions.
+- 💻 Integrated the models with **Flask** and **Streamlit** for seamless user interaction.
+
+---
+
+### 📊 Exploratory Data Analysis (EDA) Automation
+Automated the **Exploratory Data Analysis (EDA)** process to quickly uncover insights, trends, and patterns in various datasets.
+
+🎯 **Key Achievements:**
+- 🧐 Streamlined **EDA** to identify trends and correlations with **interactive visualizations**.
+- 📉 Detected patterns in large datasets, leading to better decision-making and insights.
+- 🔥 Reduced analysis time by **40%** using efficient, automated EDA tools.
 
 
 ## Contact Me
