@@ -57,6 +57,7 @@ Built several chatbot applications using **Flask** and **Streamlit**, allowing u
 - 🖼️ Built a **text-to-image** generator using advanced **deep learning models**, enabling creative interactions.
 - 💻 Integrated the models with **Flask** and **Streamlit** for seamless user interaction.
 ![text to speech bot](/assit_img/imge4.png)
+![text to image bot](/assit_img/imge5.png)
 ---
 
 ### 📊 Exploratory Data Analysis (EDA) Automation
