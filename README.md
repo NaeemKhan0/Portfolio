@@ -36,7 +36,7 @@ Built and optimized **data preprocessing pipelines** and applied advanced **feat
 - 🧹 Cleaned and preprocessed large datasets by handling missing values, outliers, and feature scaling.
 - 🔄 Applied **dimensionality reduction** and **one-hot encoding**, leading to a **15% boost in model accuracy**.
 - 📊 Automated **feature extraction** processes, saving time and enhancing productivity.
-
+![Data Preprocessing and Feature Engineering](/assit_img/imge2.gif)
 ---
 
 ### 🐦 Tweet Prediction Score Model
