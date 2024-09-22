@@ -66,8 +66,8 @@ Automated the **Exploratory Data Analysis (EDA)** process to quickly uncover ins
 - 🧐 Streamlined **EDA** to identify trends and correlations with **interactive visualizations**.
 - 📉 Detected patterns in large datasets, leading to better decision-making and insights.
 - 🔥 Reduced analysis time by **40%** using efficient, automated EDA tools.
-
-
+![EDA](/assit_img/imge6.png)
+![EDA](/assit_img/c0de.png)
 ## Contact Me
 
 - **Email:** naeemkhani2024@gmail.com
