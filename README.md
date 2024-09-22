@@ -70,9 +70,9 @@ Automated the **Exploratory Data Analysis (EDA)** process to quickly uncover ins
 
 ## Contact Me
 
-- **Email:** naeemkhan@example.com
-- **LinkedIn:** [linkedin.com/in/naeemkhan](https://linkedin.com/in/naeemkhan)
-- **GitHub:** [github.com/naeemkhan](https://github.com/naeemkhan)
+- **Email:** naeemkhani2024@gmail.com
+- **LinkedIn:** [(https://www.linkedin.com/in/naeem-khan-datascientist/)](https://www.linkedin.com/in/naeem-khan-datascientist/))
+- **GitHub:** [github.com/Naeemkhan0](https://github.com/Naeemkhan0)
 
 
 
