@@ -5,7 +5,8 @@
 ## Education
 - M.Phil., Mathematics | The University of Agriculture Faisalabad (UAF) (_November 2022_)								       		
 - M.S.c., Mathematics	| The National College of Business Administration and Economics (_April 2019_)			        		
-- B.S.c., Mathematics | The Bahauddin Zakariya University (March 2017)
+- Data Science & Python | [ Codanic (_March 2023_)](https://codanics.com/tutor-certificate/?cert_hash=9717cb0f6475a6f6)
+ 
 
 ## 💼 Work Experience
 
