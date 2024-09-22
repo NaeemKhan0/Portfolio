@@ -4,8 +4,10 @@
 
 ## Education
 - M.Phil., Mathematics | The University of Agriculture Faisalabad (UAF) (_November 2022_)								       		
-- M.S.c., Mathematics	| The National College of Business Administration and Economics (_April 2019_)			        		
-- Data Science & Python | [ Codanic (_March 2023_)](https://codanics.com/tutor-certificate/?cert_hash=9717cb0f6475a6f6)
+- M.S.c., Mathematics	 | The National College of Business Administration and Economics (_April 2019_)			        		
+- AI and Data Science  | [Codanics (_April 2023_)](https://codanics.com/tutor-certificate/?cert_hash=9717cb0f6475a6f6)
+- Data Analytics and Business Intelligence | Digiskill (_March 2023_)
+- Advance AI and Data Science | [Seven Solutions (_January 2024_)](https://training.xevensolutions.com/)
  
 
 ## 💼 Work Experience
